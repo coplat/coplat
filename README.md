@@ -1,2 +1,4 @@
 ## Hi! 
-##### My name is Chaya, and I'm learning how to code in Rust!
+#### My name is Chaya,
+#### I am a biology graduate, music hoarder and bookseller (and -consumer) now finding my way around the Rust language! 
+
