@@ -3,3 +3,4 @@
 
 ![bird](https://github.com/user-attachments/assets/0ed431e8-98e9-4718-86ed-b9cd7a06bbe0)
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=noworldconcerto)
