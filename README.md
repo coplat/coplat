@@ -8,4 +8,5 @@
 <br>Oh, and you can also contact me in either English, German or Bahasa Malaysia! 
 
 
-![](https://badges.lastfm.workers.dev/last-played?user=noworldconcerto&label=Last%20Song) <br> <br>
+[![Last Song](https://badges.lastfm.workers.dev/last-played?user=noworldconcerto&label=Last%20Song)](https://www.last.fm/user/noworldconcerto)
+
