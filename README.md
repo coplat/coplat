@@ -1,2 +1,1 @@
-[![Last Song](https://badges.lastfm.workers.dev/last-played?user=noworldconcerto&label=Last%20Song)](https://www.last.fm/user/noworldconcerto)
-
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=noworldconcerto)
